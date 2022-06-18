@@ -41,4 +41,6 @@ bin/
 
 simWorkspace/
 tmp/
+.bloop/
+project
 null
